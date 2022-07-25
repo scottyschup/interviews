@@ -48,3 +48,6 @@ If a candidate has a particularly bad case of interview nerves, consider doing s
 The questions in this repo should have information on levelling candidates, as far as technical matters go. But we also want to make sure a candidate would make for a good colleague more generally. If you come across any interpersonal red flags in your interview (rude behavior, inappropriate comments, etc.), please raise them in your interview feedback and in the roundup meeting. If you feel uncomfortable doing that, you can instead reach out directly to the recruiter, hiring manager, or a fellow interviewer you feel comfortable talking to.
 
 For information on how to fill out your interview evaluations in Greenhouse, see the [Filling out Scorecards](https://docs.google.com/presentation/d/1yDFZfw7SZgZrFWKVt1X6ZKPG1uuzpKOV8UFJWB9NpeE/edit?ts=5e3afc4e#slide=id.g381b644241_0_147) section in the [Engineering Interviews wiki](https://wiki.audaxhealth.com/display/REC/Engineering+Interviews). Remember to make your evaluations detailed and focused on the relevant technical aspects.
+
+## Additional Resources
+* [Brian's interview questions on CodePen](https://codepen.io/collection/AGkPzd)
