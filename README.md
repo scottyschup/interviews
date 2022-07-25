@@ -1,14 +1,10 @@
 # UI Interviews
 
-A home for materials that help streamline interviewing UI Engineering candidates at Rally.
-
-## Contributing
-
-PRs are welcome! But before contributing, check out the [Contributing Guidelines](CONTRIBUTING.md).
+A home for materials that help streamline interviewing UI Engineering candidates.
 
 ## Interview Structure
 
-Front-end interviews at Rally begin with an initial Technical Screen that lasts 45 minutes or an hour (it can vary by area).
+Front-end interviews begin with an initial Technical Screen that lasts 45 minutes or an hour (it can vary by area).
 
 If the candidate passes the Tech Screen, then they get scheduled for a half-day of interviews consisting of the following slots:
 
@@ -19,13 +15,13 @@ If the candidate passes the Tech Screen, then they get scheduled for a half-day 
 
 The order of the slots varies by interview, based on interviewer schedules, etc.
 
-Front-end interviewers may sometimes be asked to do the Coding slot for Full-stack candidates. Full-stack interviews at Rally have differing formats based on the specific hiring needs. If you get asked to do a Full Stack Coding slot you can treat it as you would a Front-end Coding one. I.e., you are not expected to ask Back-end interview questions.
+Front-end interviewers may sometimes be asked to do the Coding slot for Full-stack candidates. Full-stack interviews have differing formats based on the specific hiring needs. If you get asked to do a Full Stack Coding slot you can treat it as you would a Front-end Coding one. I.e., you are not expected to ask Back-end interview questions.
 
 When in doubt, ask the recruiter organizing the interview for more information, or coordinate with the other interviewers to figure out a plan.
 
 ## Interview Questions
 
-This repo houses questions that have been reviewed and approved for use in Rally front-end interviews, so feel free to pull from them. If you run into any problems with any of the approved questions in the repo, or have any ideas on how to improve or change them, please submit a PR! If you have your own interview questions that you prefer, please submit a PR to add them to the repo!
+This repo houses questions that have been reviewed and approved for use in front-end interviews, so feel free to pull from them. If you run into any problems with any of the approved questions in the repo, or have any ideas on how to improve or change them, please submit a PR! If you have your own interview questions that you prefer, please submit a PR to add them to the repo!
 
 For Technical Screens, see the README in the [`tech-screen`](tech-screen) folder for more information, and of course any questions in that folder as well. Some questions in the [`css`](css), [`html`](html), [`javascript`](javascript), and [`react`](react) folders can also be used in technical screens, so consult those as needed.
 

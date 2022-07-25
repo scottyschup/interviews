@@ -7,7 +7,7 @@ Tech screens should follow this three-part format.
 Use the first 5-10 minutes for introductions and high level "softer" questions. Things like:
 
 * "What's one thing about frontend work that you are passionate about and why?"
-* "What are you looking for in your next job, whether at Rally or otherwise?"
+* "What are you looking for in your next job, here or otherwise?"
 * "If you could change one thing about your current job's tech stack, what would it be and why?"
 
 ## Part 2
@@ -26,4 +26,4 @@ The important thing is to try to get a sense of the candidate's broader front-en
 
 ## Part 3
 
-Use the last 5-10 minutes for Q&A. This is the candidate's chance to ask you questions about working at Rally, etc.
+Use the last 5-10 minutes for Q&A. This is the candidate's chance to ask you questions about working with us, etc.

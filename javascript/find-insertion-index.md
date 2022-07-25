@@ -16,7 +16,7 @@ The function should return: 2
 Explanation: The number 3 can be inserted after number 2, which is at index position 1. Hence, the number 3 can inserted at index position 2.
 ```
 
-:warning: Most candidates who haven't studied algorithms or someone who never had to think about these kinds of problems in their professional experience will not be able to come up with the optimized solution right away. So only use this exercise for candidates who are expected to tackle such problems at Rally.
+:warning: Most candidates who haven't studied algorithms or someone who never had to think about these kinds of problems in their professional experience will not be able to come up with the optimized solution right away. So only use this exercise for candidates who are expected to tackle such problems.
 
 ## Interviewer Notes
 
